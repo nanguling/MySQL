@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_提供jar包.iml" filepath="$PROJECT_DIR$/01_提供jar包.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../02_获得jar包帮助/02_获得jar包帮助.iml" filepath="$PROJECT_DIR$/../02_获得jar包帮助/02_获得jar包帮助.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../03_JDBC开发演示/03_JDBC开发演示.iml" filepath="$PROJECT_DIR$/../03_JDBC开发演示/03_JDBC开发演示.iml" />
+    </modules>
+  </component>
+</project>

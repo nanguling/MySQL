@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../部门管理系统/01_部门管理系统/01_部门管理系统.iml" filepath="$PROJECT_DIR$/../../部门管理系统/01_部门管理系统/01_部门管理系统.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../部门管理系统/02_JDBCUtil封装/02_JDBCUtil封装.iml" filepath="$PROJECT_DIR$/../../部门管理系统/02_JDBCUtil封装/02_JDBCUtil封装.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../部门管理系统/03_DAO类封装/03_DAO类封装.iml" filepath="$PROJECT_DIR$/../../部门管理系统/03_DAO类封装/03_DAO类封装.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20201118.iml" filepath="$PROJECT_DIR$/20201118.iml" />
+    </modules>
+  </component>
+</project>
